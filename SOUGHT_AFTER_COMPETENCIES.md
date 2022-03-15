@@ -37,6 +37,13 @@ Creating tooling that would allow easy generation of [bindings] from code in pro
       * In general - **useful**
       * [C++ addons](https://nodejs.org/api/addons.html#c-addons) - **extremely useful**
     + WebAssembly - **extremely useful**
+  - Other programming languages are under consideration
+* [Packages and package-management ecosystem(-s)]
+  - Python - **extremely useful**
+  - Java - **extremely useful**
+  - Kotlin - **extremely useful**
+  - Swift - **extremely useful**
+  - JavaScript - **extremely useful**
 * [Compiler Theory] - **potentially useful**
 * [Type Theory] - **potentially useful**
 
