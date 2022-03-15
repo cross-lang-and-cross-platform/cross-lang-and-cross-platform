@@ -2,7 +2,7 @@
 
 ## [LLVM] parser
 
-On wait while the working group gains expertise in building parsers with [`nom`]. The development of [LLVM] parser is justified by the need of acquiring knowledge about [LLVM].
+On wait while the working group gains expertise in building parsers with [`nom`] by building [`latex_parser`]. The development of [LLVM] parser is justified by the need of acquiring knowledge about [LLVM].
 
 <!-- The need for LLVM experise must be supported with a link to the list of desired competencies -->
 
