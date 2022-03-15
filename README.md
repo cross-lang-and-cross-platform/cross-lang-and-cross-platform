@@ -38,6 +38,7 @@ Once the working group delivers the results that bring undeniable value, the tea
 # Repository navigation
 
 * [History of the project](https://github.com/JohnScience/cross-lang-and-cross-platform/blob/main/HISTORY.md)
+* [Ongoing work](https://github.com/JohnScience/cross-lang-and-cross-platform/blob/main/ONGOING_WORK.md)
 
 # Communications
 
