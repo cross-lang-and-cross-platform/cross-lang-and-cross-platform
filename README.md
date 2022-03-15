@@ -15,9 +15,9 @@ Such tooling would greatly facilitate **cross-language code reuse** and **cross-
 ## Notes
 
 * The to-be-developed tooling will not compete but coexist and possibly even provide foundation for cross-platform **UI libraries** (such as [Flutter] and [React Native]), i.e. the tooling is intended to be a part of the respective [software ecosystems].
-* Microservices and IPC (inter-process communication) are two other important approaches to cross-language interoperability. They come with considerably greater performance overhead that can be justified in **some** but *not even in the majority of scenarios*.
+* Microservices and IPC (inter-process communication) are two other important approaches to cross-language interoperability. They come with considerably greater performance overhead that can be justified in **some** but *not even in the majority of use cases*.
 
-<!-- The claim "but *not even in the majority of scenarios*" must be supported with facts -->
+<!-- The claim "but *not even in the majority of use cases*" must be supported with facts -->
 
 # What is the prior art?
 
