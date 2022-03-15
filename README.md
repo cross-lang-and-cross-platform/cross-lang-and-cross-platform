@@ -15,19 +15,27 @@ Such tooling would greatly facilitate **cross-language code reuse** and **cross-
 ## Notes
 
 * The to-be-developed tooling will not compete but coexist and possibly even provide foundation for cross-platform **UI libraries** (such as [Flutter] and [React Native]), i.e. the tooling is intended to be a part of the respective [software ecosystems].
-* Microservices and IPC (inter-process communication) are two other important approaches to cross-language interoperability. They come with considerably greater performance overhead that can be justified in **some** but *not even in the majority of use cases*.
+* [Microservices] and [IPC] (inter-process communication) are two other important approaches to cross-language interoperability. They come with considerably greater performance overhead that can be justified in **some** but *not even in the majority of use cases*.
 
 <!-- The claim "but *not even in the majority of use cases*" must be supported with facts -->
 
-# What is the prior art?
+# Existing approaches and their issues
 
-Good overview of the existing approaches and issues with them is given in the presentation ["Making Libraries Consumable for Non-C++ Developers - Aaron R Robinson - CppCon 2021"]. Duration: 58:22.
+Good overview of the prior art is given in the presentation ["Making Libraries Consumable for Non-C++ Developers - Aaron R Robinson - CppCon 2021"]. Duration: 58:22.
 
 # Are there any teams or individual developers working on similar problems?
 
-Maybe. The are plans to create a list of teams and individual developers working on related problems and make the interaction with them as transparent and easy as possible.
+Almost surely, yes. The are plans to create a list of teams and individual developers working on related problems and make the interaction with them as transparent and easy as possible.
 
-# Repo navigation
+# How is the project going to be driven from the financial standpoint?
+
+The team buys the motto of [Rust Foundation],
+
+> "Good software is built by happy, well-supported people".
+
+Once the working group delivers the results that bring undeniable value, the team will consider possible options of getting the financial support for the project. 
+
+# Repository navigation
 
 * [History of the project](https://github.com/JohnScience/cross-lang-and-cross-platform/blob/main/HISTORY.md)
 
@@ -41,4 +49,7 @@ Maybe. The are plans to create a list of teams and individual developers working
 [Flutter]: https://en.wikipedia.org/wiki/Flutter_(software)
 [React Native]: https://en.wikipedia.org/wiki/React_Native
 [software ecosystems]: https://en.wikipedia.org/wiki/Software_ecosystem
+[Rust Foundation]: https://foundation.rust-lang.org/
+[Microservices]: https://towardsdatascience.com/microservice-architecture-a-brief-overview-and-why-you-should-use-it-in-your-next-project-a17b6e19adfd
+[IPC]: https://en.wikipedia.org/wiki/Inter-process_communication
 [^1]: https://en.wikipedia.org/wiki/LLVM
