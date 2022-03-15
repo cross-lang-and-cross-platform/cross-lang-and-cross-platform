@@ -31,6 +31,9 @@ Creating tooling that would allow easy generation of [bindings] from code in pro
       * `.def` files - **extremely useful**
   - Swift
     + In general - **extremely useful**
+  - Dart
+    + In general - **potentially useful**
+    + [dart:ffi](https://dart.dev/guides/libraries/c-interop) - **extremely useful**
   - JavaScript
     + In general - **extremely useful**
     + Node.js
@@ -52,6 +55,9 @@ Creating tooling that would allow easy generation of [bindings] from code in pro
   - Swift
     + In general - **potentially useful**
     + [Swift Package Manager](https://www.swift.org/package-manager/) - **extremely useful**
+  - Dart
+    + In general - **potentially useful**
+    + [Pub](https://pub.dev/) - **extremely useful**
   - JavaScript
     + In general - **extremely useful**
     + [npm](https://www.npmjs.com/) - **extremely useful**
