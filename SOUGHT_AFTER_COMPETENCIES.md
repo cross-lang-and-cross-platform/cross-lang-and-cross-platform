@@ -15,6 +15,28 @@ Creating tooling that would allow easy generation of [bindings] from code in pro
 * [LLVM-CBE]
   - Tool usage - **potentially useful**
   - Source code - **extremely useful**
+* [Language-specific FFI (foreign function interface)][FFI]
+  - Python
+    + In general - **useful**
+    + [CFFI](https://cffi.readthedocs.io/en/latest/) - **extremely useful**
+  - Java
+    + In general - **extremely useful**
+    + [JNI](https://en.wikipedia.org/wiki/Java_Native_Interface) - **potentially useful**
+    + [JNA](https://github.com/java-native-access/jna) - **potentially useful**
+  - Kotlin
+    + In general - **potentially useful**
+    + [cinterop](https://kotlinlang.org/docs/native-c-interop.html)
+      * Tool usage - **extremely useful**
+      * Source code - **extremely useful**
+      * `.def` files - **extremely useful**
+  - Swift
+    + In general - **extremely useful**
+  - JavaScript
+    + In general - **extremely useful**
+    + Node.js
+      * In general - **useful**
+      * [C++ addons](https://nodejs.org/api/addons.html#c-addons) - **extremely useful**
+    + WebAssembly - **extremely useful**
 * [Compiler Theory] - **potentially useful**
 * [Type Theory] - **potentially useful**
 
@@ -27,3 +49,4 @@ Creating tooling that would allow easy generation of [bindings] from code in pro
 [Compiler Theory]: https://en.wikipedia.org/wiki/Compiler#Compiler_construction
 [Type Theory]: https://en.wikipedia.org/wiki/Type_theory
 [SWIG]: http://www.swig.org/
+[FFI]: https://en.wikipedia.org/wiki/Foreign_function_interface
