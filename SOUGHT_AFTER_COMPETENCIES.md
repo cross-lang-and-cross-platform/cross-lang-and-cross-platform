@@ -38,12 +38,24 @@ Creating tooling that would allow easy generation of [bindings] from code in pro
       * [C++ addons](https://nodejs.org/api/addons.html#c-addons) - **extremely useful**
     + WebAssembly - **extremely useful**
   - Other programming languages are under consideration
-* [Packages and package-management ecosystem(-s)]
-  - Python - **extremely useful**
-  - Java - **extremely useful**
-  - Kotlin - **extremely useful**
-  - Swift - **extremely useful**
-  - JavaScript - **extremely useful**
+* Packages and package-management ecosystem(-s)
+  - Python
+    + In general - **potentially useful**
+    + [pip](https://en.wikipedia.org/wiki/Pip_(package_manager)) - **extremely useful**
+  - Java
+    + In general - **extremely useful**
+    + [Maven](https://maven.apache.org/) - **extremely useful**
+    + [Gradle] - **extremely useful**
+  - Kotlin
+    + In general - **extremely useful**
+    + [Gradle] - **extremely useful**
+  - Swift
+    + In general - **potentially useful**
+    + [Swift Package Manager](https://www.swift.org/package-manager/) - **extremely useful**
+  - JavaScript
+    + In general - **extremely useful**
+    + [npm](https://www.npmjs.com/) - **extremely useful**
+    + [yarn](https://en.wikipedia.org/wiki/Yarn_(package_manager)) - **extremely useful**
 * [Compiler Theory] - **potentially useful**
 * [Type Theory] - **potentially useful**
 
@@ -57,3 +69,4 @@ Creating tooling that would allow easy generation of [bindings] from code in pro
 [Type Theory]: https://en.wikipedia.org/wiki/Type_theory
 [SWIG]: http://www.swig.org/
 [FFI]: https://en.wikipedia.org/wiki/Foreign_function_interface
+[Gradle]: https://en.wikipedia.org/wiki/Gradle
