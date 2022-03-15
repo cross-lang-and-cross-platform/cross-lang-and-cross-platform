@@ -21,6 +21,7 @@ Creating tooling that would allow easy generation of [bindings] from code in pro
 [LLVM Compiler Infrastructure]: https://llvm.org/
 [Parsing]: https://en.wikipedia.org/wiki/Parsing
 [`nom`]: https://crates.io/crates/nom
+[LLVM-CBE]: https://github.com/JuliaComputingOSS/llvm-cbe
 [Compiler Theory]: https://en.wikipedia.org/wiki/Compiler#Compiler_construction
 [Type Theory]: https://en.wikipedia.org/wiki/Type_theory
 [SWIG]: http://www.swig.org/
