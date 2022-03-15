@@ -27,6 +27,10 @@ Good overview of the existing approaches and issues with them is given in the pr
 
 Maybe. The are plans to create a list of teams and individual developers working on related problems and make the interaction with them as transparent and easy as possible.
 
+# Communications
+
+* Discord server of the working group: https://discord.gg/8xUXjshS4m
+
 [bindings]: https://en.wikipedia.org/wiki/Language_binding
 [LLVM]: https://llvm.org/docs/LangRef.html#abstract
 ["Making Libraries Consumable for Non-C++ Developers - Aaron R Robinson - CppCon 2021"]: https://www.youtube.com/watch?v=4r09pv9v1w0
