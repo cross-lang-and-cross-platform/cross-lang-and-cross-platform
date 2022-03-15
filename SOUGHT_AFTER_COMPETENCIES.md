@@ -6,7 +6,9 @@ Creating tooling that would allow easy generation of [bindings] from code in pro
   - [LLVM human-readable language][LLVM] - **necessary**
   - Tool usage - **extremely useful**
 * [Parsing]
-  - Parsing combinators and, specifically, [`nom`] - **necessary**
+  - Parsing combinators
+    + In general - **useful**
+    + [`nom`] - **necessary**
 * [SWIG]
   - Tool usage - **extremely useful**
   - Source code - **potentially useful**
