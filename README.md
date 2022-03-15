@@ -27,6 +27,10 @@ Good overview of the existing approaches and issues with them is given in the pr
 
 Maybe. The are plans to create a list of teams and individual developers working on related problems and make the interaction with them as transparent and easy as possible.
 
+# Repo navigation
+
+* [History of the project](https://github.com/JohnScience/cross-lang-and-cross-platform/blob/main/HISTORY.md)
+
 # Communications
 
 * Discord server of the working group: https://discord.gg/8xUXjshS4m
