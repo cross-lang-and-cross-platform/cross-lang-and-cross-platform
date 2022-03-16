@@ -65,7 +65,7 @@ Creating tooling that would allow easy generation of [bindings] from code in pro
 * [Compiler Theory] - **potentially useful**
 * [Type Theory] - **potentially useful**
 
-Even if you haven't found your expertise or field of interest in the tree, you still almost surely will be able to bring unique value. Because there are so many technologies with very few experts, you can be a trailblazer, the hero who will make possible what others couldn not even think of. If you are uncertain of your abilities, do not fret as there is almost always ongoing work: we try things out, read docs and books, watch project-related videos. Also, you can start your own activity!
+Even if you haven't found your expertise or field of interest in the tree, you still almost surely will be able to bring unique value. Because there are so many technologies with very few experts, you can be a trailblazer, the hero who will make possible what others couldn not even think of. If you are uncertain of your abilities, do not fret as there is almost always [ongoing work](https://github.com/cross-lang-and-cross-platform/cross-lang-and-cross-platform/blob/main/ONGOING_WORK.md): we try things out, read docs and books, watch project-related videos. Also, you can start your own activity!
 
 [bindings]: https://en.wikipedia.org/wiki/Language_binding
 [LLVM]: https://llvm.org/docs/LangRef.html#abstract
