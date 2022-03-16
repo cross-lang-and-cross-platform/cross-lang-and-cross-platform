@@ -4,13 +4,15 @@
 
 * Rust - the default choice for the code that is meant to be executed at run-time or build-time[^1].
 
-<img alt="Python logo" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="144" height="144">
-
-* Python 3 - permissible (but not recommended) option if the code you're going to write will be executed only at build-time[^1].
-
-**Language-specific parts can be to a reasonable extent written in the target languages. However, they should not be hard dependencies.**
+**Language-specific parts can be (to a reasonable extent) written in the target languages. However, they should not be hard dependencies.**
 
 # Possible additions to the tech stack
+
+If you want to add any dependency to the tech stack, you must ensure that there will be an Accountable individual (as in [RACI matrix](https://en.wikipedia.org/wiki/Responsibility_assignment_matrix)).
+
+<img alt="CMake" src="https://upload.wikimedia.org/wikipedia/commons/1/13/Cmake.svg" width="144" height="144">
+
+* CMake - if there's a need for managing build systems.
 
 <img alt="C++ logo" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="144" height="144">
 
@@ -21,6 +23,10 @@ Ensuring correctness of C++ code is more difficult. It must be well-documented a
 <img alt="C logo" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width="144" height="144">
 
 * Ditto
+
+<img alt="Python logo" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="144" height="144">
+
+* Python 3 - potentially permissible (but not recommended) option if the code you're going to write will be executed only at build-time[^1].
 
 <!-- HTML doc -->
 
