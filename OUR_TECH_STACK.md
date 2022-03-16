@@ -8,7 +8,7 @@
 
 # Possible additions to the tech stack
 
-If you want to add any dependency to the tech stack, you must ensure that there will be an Accountable individual (as in [RACI matrix](https://en.wikipedia.org/wiki/Responsibility_assignment_matrix)).
+If you want to add any dependency to the tech stack, you must ensure that there will be an Accountable individual (as in [RACI matrix](https://en.wikipedia.org/wiki/Responsibility_assignment_matrix)). As long as there is no an established process, reach out to the working group [on Discord](https://discord.com/invite/8xUXjshS4m).
 
 <img alt="CMake" src="https://upload.wikimedia.org/wikipedia/commons/1/13/Cmake.svg" width="144" height="144">
 
