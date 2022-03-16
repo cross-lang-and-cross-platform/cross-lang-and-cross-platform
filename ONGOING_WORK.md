@@ -12,7 +12,7 @@ On wait while the working group gains expertise in building parsers with [`nom`]
 
 ## LaTeX parser
 
-![GitHub last commit](https://img.shields.io/github/last-commit/JohnScience/latex_parser)
+[![GitHub last commit](https://img.shields.io/github/last-commit/JohnScience/latex_parser)](https://github.com/JohnScience/latex_parser/)
 
 [`latex_parser`]: https://github.com/JohnScience/latex_parser
 [`nom`]: https://crates.io/crates/nom
