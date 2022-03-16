@@ -8,6 +8,8 @@
 
 * Python 3 - permissible (but not recommended) option if the code you're going to write will be executed only at build-time[^1].
 
+**Language-specific parts can be to a reasonable extent written in the target languages. However, they should not be hard dependencies. **
+
 # Possible additions to the tech stack
 
 <img alt="C++ logo" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="144" height="144">
