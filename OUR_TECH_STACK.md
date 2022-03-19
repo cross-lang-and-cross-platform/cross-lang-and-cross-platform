@@ -34,7 +34,7 @@ Ensuring correctness of C++ code is more difficult. It must be well-documented a
 
 In the ideal world, the project would be absolutely language-agnostic and any tool or library could be written in any language of choice. However, with increased number of used programming languages comes greater complexity. New contributors will rarely be willing to learn another programming language just to make a contribution. And persistent storage in our computers has finite capacity for interpreters, compilers, and other tools used daily by programmers. If different programming languages did not separate developers, this project would not be born.
 
-According to the weak version of [the principle of linguistic](https://en.wikipedia.org/wiki/Linguistic_relativity), on which research - quoting Wikipedia - "[has produced](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4628110/) positive empirical evidence",
+According to the weak version of [the principle of linguistic relativity](https://en.wikipedia.org/wiki/Linguistic_relativity), on which research - quoting Wikipedia - "[has produced](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4628110/) positive empirical evidence",
 
 > Linguistic categories and usage \[only\] influence thought and decisions;
 
