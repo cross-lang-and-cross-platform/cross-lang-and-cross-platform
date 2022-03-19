@@ -64,6 +64,10 @@ Creating tooling that would allow easy generation of [bindings] from code in pro
     + [yarn](https://en.wikipedia.org/wiki/Yarn_(package_manager)) - **extremely useful**
 * [Compiler Theory] - **potentially useful**
 * [Type Theory] - **potentially useful**
+* [ABI] analysis tools
+  - [libabigail](https://man7.org/linux/man-pages/man7/libabigail.7.html)
+    + Tool usage - **potentially useful**
+    + Source code - **potentially useful**
 
 Even if you haven't found your expertise or field of interest in the tree, you still almost surely will be able to bring unique value. Because there are so many technologies with very few experts, you can be a trailblazer, the hero who will make possible what others couldn not even think of. If you are uncertain of your abilities, do not fret as there is almost always [ongoing work](https://github.com/cross-lang-and-cross-platform/cross-lang-and-cross-platform/blob/main/ONGOING_WORK.md): we try things out, read docs and books, watch project-related videos. Also, you can start your own activity!
 
@@ -78,3 +82,4 @@ Even if you haven't found your expertise or field of interest in the tree, you s
 [SWIG]: http://www.swig.org/
 [FFI]: https://en.wikipedia.org/wiki/Foreign_function_interface
 [Gradle]: https://en.wikipedia.org/wiki/Gradle
+[ABI]: https://en.wikipedia.org/wiki/Application_binary_interface
