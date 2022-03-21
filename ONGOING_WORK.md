@@ -14,7 +14,7 @@ On wait while the working group gains expertise in building parsers with [`nom`]
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/JohnScience/latex_parser)](https://github.com/JohnScience/latex_parser/)
 
-On wait while the working group devises a systematic and well-explained approach for dealing with [E207] and an alternative to Haskell's [ConstraintKinds] in Rust.
+On wait while the working group devises a systematic and well-explained approach for dealing with [E207] and an alternative to Haskell's [ConstraintKinds][Kwang's Haskell Blog, "Comparing Traits and Typeclasses"] in Rust.
 
 ## Pattern for avoiding [E207] and alternative to Haskell's [ConstraintKinds] in Rust
 
