@@ -14,7 +14,6 @@ On wait while the working group gains expertise in building parsers with [`pest`
 
 * [Comparing Traits and Typeclasses]
 * [Kwang's Haskell Blog, "Comparing Traits and Typeclasses"]
-* <https://github.com/JohnScience/equiv_ty_example>
 
 [`latex_parser`]: https://github.com/JohnScience/latex_parser
 [`pest`]: https://crates.io/crates/pest
