@@ -10,6 +10,11 @@
 
 * ["Dynamically Loaded Libraries Outside the Standard - Zhihao Yuan - CppCon 2021"](https://www.youtube.com/watch?v=-dxCaM4GOqs). Duration: 54:53.
 
-## LLVM vs GIMPLE
+## LLVM
+
+### LLVM vs GIMPLE
 
 * ["How is GCC IR different from LLVM IR?", Stack Overflow](https://stackoverflow.com/questions/40799696/how-is-gcc-ir-different-from-llvm-ir)
+
+### Intro to LLVM
+* ["2019 EuroLLVM Developers’ Meeting: V. Bridgers & F. Piovezan “LLVM IR Tutorial - Phis, GEPs ...”"](https://www.youtube.com/watch?v=m8G_S5LwlTo). Duration: 50:45.
