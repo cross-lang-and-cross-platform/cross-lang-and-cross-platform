@@ -9,3 +9,7 @@
 ## Dynamically loaded libraries
 
 * ["Dynamically Loaded Libraries Outside the Standard - Zhihao Yuan - CppCon 2021"](https://www.youtube.com/watch?v=-dxCaM4GOqs). Duration: 54:53.
+
+## LLVM vs GIMPLE
+
+* ["How is GCC IR different from LLVM IR?", Stack Overflow](https://stackoverflow.com/questions/40799696/how-is-gcc-ir-different-from-llvm-ir)
