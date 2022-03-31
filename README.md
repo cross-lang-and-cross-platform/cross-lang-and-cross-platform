@@ -15,6 +15,7 @@ Such tooling would greatly facilitate **cross-language code reuse** and **cross-
 This in turn would result in many [person-hours] saved on reimplementations of the same functionality in different programming languages. In addition, the implementations in programming languages like C, C++, Rust, Fortran, and Ada, - according to ["Energy Efficiency across Programming Languages: How Do Energy, Time, and Memory Relate?"] - often have lower latency, higher throughput, thinner memory footprint, and reduced energy consumption. All these runtime characteristics often restrict the choice of programming languages, forcing developers to use not the languages
 * that would allow to ship more feature-rich products faster;
 * [that the developers love][Most loved, dreaded, and wanted];
+
 but the languages that would provide reasonable runtime characteristics.
 
 ## Notes
