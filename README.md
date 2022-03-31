@@ -12,6 +12,11 @@ We're trying to create tooling that would allow easy generation of [bindings] fr
 
 Such tooling would greatly facilitate **cross-language code reuse** and **cross-platform development**.
 
+This in turn would result in many [person-hours] saved on reimplementations of the same functionality in different programming languages. In addition, the implementations in programming languages like C, C++, Rust, Fortran, and Ada, - according to ["Energy Efficiency across Programming Languages: How Do Energy, Time, and Memory Relate?"] - often have lower latency, higher throughput, thinner memory footprint, and reduced energy consumption. All these runtime characteristics often restrict the choice of programming languages, forcing developers to use not the languages
+* that would allow to ship more feature-rich products faster;
+* [that the developers love][Most loved, dreaded, and wanted];
+but the languages that would provide reasonable runtime characteristics.
+
 ## Notes
 
 * The to-be-developed tooling will not compete but coexist and possibly even provide foundation for cross-platform **UI libraries** (such as [Flutter] and [React Native]), i.e. the tooling is intended to be a part of the respective [software ecosystems].
@@ -56,4 +61,7 @@ Once the working group delivers the results that bring undeniable value, the tea
 [Rust Foundation]: https://foundation.rust-lang.org/
 [Microservices]: https://towardsdatascience.com/microservice-architecture-a-brief-overview-and-why-you-should-use-it-in-your-next-project-a17b6e19adfd
 [IPC]: https://en.wikipedia.org/wiki/Inter-process_communication
+[person-hours]: https://en.wikipedia.org/wiki/Man-hour
+["Energy Efficiency across Programming Languages: How Do Energy, Time, and Memory Relate?"]: https://greenlab.di.uminho.pt/wp-content/uploads/2017/10/sleFinal.pdf
+[Most loved, dreaded, and wanted]: https://insights.stackoverflow.com/survey/2021#technology-most-loved-dreaded-and-wanted
 [^1]: https://en.wikipedia.org/wiki/LLVM
