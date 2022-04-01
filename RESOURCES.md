@@ -6,7 +6,15 @@
 
 * ["How Can Package Managers Handle ABI (In)compatibility in C++? - Todd Gamblin - CppCon 2021"](https://www.youtube.com/watch?v=gWe2K_oCp6A). Duration: 58:28.
 
-## Dynamically loaded libraries
+## Object files
+
+* ["CppCon 2017: Michael Spencer “My Little Object File: How Linkers Implement C++”"](https://www.youtube.com/watch?v=a5L66zguFe4). Duration: 47:50.
+
+**Note:** This video explains object files before C++ modules. According to ["C++23 Standard Library Preview - Jeff Garland - CppCon 2021"](https://www.youtube.com/watch?v=ySsqD2e5uRQ), object files will change.
+
+## Static and dynamic libraries
+
+### Dynamically loaded libraries
 
 * ["Dynamically Loaded Libraries Outside the Standard - Zhihao Yuan - CppCon 2021"](https://www.youtube.com/watch?v=-dxCaM4GOqs). Duration: 54:53.
 
