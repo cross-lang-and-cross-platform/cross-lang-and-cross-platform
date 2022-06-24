@@ -27,3 +27,9 @@
 
 ### Intro to LLVM
 * ["2019 EuroLLVM Developers’ Meeting: V. Bridgers & F. Piovezan “LLVM IR Tutorial - Phis, GEPs ...”"](https://www.youtube.com/watch?v=m8G_S5LwlTo). Duration: 50:45.
+
+## Tooling for languages
+
+### Maturin
+
+* ["Calling Rust code from Python"](https://www.youtube.com/watch?v=DpUlfWP_gtg). Duration: 8:22
