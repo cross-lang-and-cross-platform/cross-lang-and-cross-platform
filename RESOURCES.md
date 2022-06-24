@@ -30,6 +30,8 @@
 
 ## Tooling for languages
 
-### Maturin
+### Rust
+
+#### Maturin
 
 * ["Calling Rust code from Python"](https://www.youtube.com/watch?v=DpUlfWP_gtg). Duration: 8:22
