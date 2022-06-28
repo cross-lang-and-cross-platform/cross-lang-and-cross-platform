@@ -34,4 +34,8 @@
 
 #### Maturin
 
-* ["Calling Rust code from Python"](https://www.youtube.com/watch?v=DpUlfWP_gtg). Duration: 8:22
+* ["Calling Rust code from Python"](https://www.youtube.com/watch?v=DpUlfWP_gtg). Duration: 8:22.
+
+### CPython + PyO3
+
+* ["15. Python Module written in Rust - From Python to Rust"](https://www.youtube.com/watch?v=yqLD22sIYMo&list=PLEIv4NBmh-GsWGE9mY3sF9c5lgh5Z_jLr&index=23)
