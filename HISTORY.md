@@ -10,7 +10,26 @@ Unfortunately, [`LLVM-CBE`] was found to be unreasonably hard to build and borde
 
 ## Moving forward
 
-Unfeasibility of shipping original [`LLVM-CBE`] led to skyrocketing of the required work necessary for creating the first proof of concept. Once this fact had been found, the team considered available options and decided to persevere and devise another plan.
+Unfeasibility of shipping original [`LLVM-CBE`] led to skyrocketing of the amount of work necessary for creating the first proof of concept. Once this fact had been found, the team considered available options and decided to persevere and devise another plan. The plan then has evolved to reimplement [`LLVM-CBE`] in Rust, which has been acknowledged as an arduous and expertise-demanding task. The team lacked sufficiently deep knowledge of parsers to immediately identify that it had to tackle the problem that no one either ever attempted solving or, more likely, had no time to make the solution for it reasonably discoverable. Dire need for the expertise in parsers emerged.
+
+## Climbing the mountain
+
+A few draft projects were created to test different approaches to parsers (e.g. [`latex_parser`]), yet they were proven to have crucial design flaws. After reading countless papers, watching hours of videos about parsing, after implementing some parsers, it has become painfully clear that rigorous research had to take place. New knowledge had to be born to be the foundation of the design.
+
+The cultural landscape of parsing proliferated with ideas about parsing from the state description point of view and from the point of view of approaches to writing them.
+
+!["Kinds of parsers based on state"](https://media.geeksforgeeks.org/wp-content/uploads/20190726164056/Capture55555.jpg)
+
+These ideas were bunched together, forming a resemblance of unity. However, this salad of words clearly had several orthogonal yet admittedly interfering dimensions. There were several simple yet important observations made by the team. The structure of the parsed data implied and even defined the access patterns and statefulness aspect of the parsers. The evolution of the structure, access patters, and state of the parsers in turn shaped the techniques and tools for writing them. These ideas were not only born in the heads of the team but also sought to be expressed and added to the collective knoweldge. However, this sadly was not enough. There were also several ephemeral, elusive ideas that begged to be given name and enter our lexicon. They were necessary to explain what kinds of parsers we needed , then invent, and, finally, explain the design, which would almost certainly needed to be changed with new design choices. This was important for maintainability. Reimplementation of such sophisticated pieces of software is way too time-consuming and expertise-demanding to allow rapid code rot and eventual failure. The libraries had to last and evolve with LLVM.
+
+## Reaching for the stars
+
+We were tough and we kept going. However, we also could clearly see that our small team (only 3-4 people at the time) was running out of opportunities to invest into the project. Financial, familial aspects of our life needed our time. [I](https://github.com/JohnScience) am ashamed to admit but tiredness was observable. We spent hours almost every day working on the project after job or university, putting our weekends at stake. We had our skin in the game and did not want to jeopardize our physical and/or mental health, as well as quality of life in general. At this point, it was clear that for the success of the project it was more important not to rush the goals we had in mind but make it more accessible for others to make contribution.
+
+## Preparing for the call
+
+The team perfectly realized that the project was ambitious. And some members like [Dmitrii Demenev](https://github.com/JohnScience) and "Limits" continue to work on it when there's an opportunity one way or another. There is hope that eventually [the list of resources](https://github.com/cross-lang-and-cross-platform/cross-lang-and-cross-platform/blob/main/RESOURCES.md) and of [sought-after competencies](https://github.com/cross-lang-and-cross-platform/cross-lang-and-cross-platform/blob/main/SOUGHT_AFTER_COMPETENCIES.md) would be fine enough to appeal the influencers to make a loud call for developers. A call louder than [Erlangen](https://www.youtube.com/watch?v=w6Pw4MOzMuo) or [Langlands](https://www.youtube.com/watch?v=_bJeKUosqoY) programs. This, however, demands lots of project management and knowledge aggregation to be done in advance to achieve success. And we're making it happen!
 
 [`LLVM-CBE`]: https://github.com/JuliaComputingOSS/llvm-cbe
 [`SWIG`]: http://www.swig.org/
+[`latex_parser`]: https://github.com/JohnScience/latex_parser
