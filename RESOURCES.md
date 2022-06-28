@@ -38,4 +38,4 @@
 
 ### CPython + PyO3
 
-* ["15. Python Module written in Rust - From Python to Rust"](https://www.youtube.com/watch?v=yqLD22sIYMo&list=PLEIv4NBmh-GsWGE9mY3sF9c5lgh5Z_jLr&index=23)
+* ["15. Python Module written in Rust - From Python to Rust"](https://www.youtube.com/watch?v=yqLD22sIYMo&list=PLEIv4NBmh-GsWGE9mY3sF9c5lgh5Z_jLr&index=23). Duration: 20:27.
