@@ -18,6 +18,24 @@ This in turn would result in many [person-hours] saved on reimplementations of t
 
 but the languages that would provide reasonable runtime characteristics.
 
+According to [Mapped: Energy Consumption Per Capita Around the World], even as small country as Iceland spent 990,097,000 kWh of energy on data centers in 2019. While it's only 5.2% of Iceland's total energy consumption, 65.9% of energy consumption in Iceland was attributed to notoriosly energy-hungry Aluminum smelters whereas less energy-hungry Ferroalloy industry in fact consumed **less** than data centers: 897,846,000 kWh or 4.7% of total energy consumption. Iceland is in a good position.
+
+> Thanks to the country’s abundance of geothermal resources, geothermal and hydropower plants account for more than 99% of Iceland’s electricity generation.
+
+However, renewable supply of energy is limited and even renewable energy is not free. 
+
+|         | Price per kWh                                   |
+|---------|-------------------------------------------------|
+| Canada  | 0.179 USD                                       |
+| Russia  | 0.090 USD                                       |
+| Iceland | 0.139 USD (households) / 0.053 USD (businesses) |
+| China   | 0.083 USD                                       |
+| Brazil  | 0.142 USD                                       |
+
+The table generated with <https://www.tablesgenerator.com/markdown_tables>
+
+**Billions** of dollars are spent worldwide to process data. Such companies as Khan Academy even found it reasonable to rewrite the back-end, which initially was developed in Python, using Golang. As they claimed, the decision was driven by rising bills from cloud service providers.
+
 ## Notes
 
 * The to-be-developed tooling will not compete but coexist and possibly even provide foundation for cross-platform **UI libraries** (such as [Flutter] and [React Native]), i.e. the tooling is intended to be a part of the respective [software ecosystems].
@@ -65,4 +83,5 @@ Once the working group delivers the results that bring undeniable value, the tea
 [person-hours]: https://en.wikipedia.org/wiki/Man-hour
 ["Energy Efficiency across Programming Languages: How Do Energy, Time, and Memory Relate?"]: https://greenlab.di.uminho.pt/wp-content/uploads/2017/10/sleFinal.pdf
 [Most loved, dreaded, and wanted]: https://insights.stackoverflow.com/survey/2021#technology-most-loved-dreaded-and-wanted
+[Mapped: Energy Consumption Per Capita Around the World]: https://elements.visualcapitalist.com/energy-consumption-per-capita/
 [^1]: https://en.wikipedia.org/wiki/LLVM
