@@ -15,6 +15,14 @@ On wait while the working group gains expertise in building parsers with [`pest`
 * [Comparing Traits and Typeclasses]
 * [Kwang's Haskell Blog, "Comparing Traits and Typeclasses"]
 
+## Preparing for the call
+
+The project needs lots of competencies and lots of developers to get the work done.
+
+We need a list of influencers on different platforms who would be willing to announce our plans.
+
+For one, Level Up: https://levelup.gitconnected.com/how-we-use-rust-and-low-level-programming-to-build-metalbear-df567c399bcc
+
 [`latex_parser`]: https://github.com/JohnScience/latex_parser
 [`pest`]: https://crates.io/crates/pest
 [LLVM]: https://llvm.org/docs/LangRef.html#abstract
