@@ -43,3 +43,11 @@
 # Distribution
 
 * ["Creating and maintaining a conda-forge package"](https://www.youtube.com/watch?v=8s5aj3sjuVE). Duration: 41:30.
+
+* ["Which Python Package Manager Should You Use?", Google Cloud Tech](https://www.youtube.com/watch?v=3J02sec99RM). Duration: 5:05.
+
+**Note:** Both `venv` and `conda` are in use. There's `pyenv` that tries to rule them.
+
+# Note on resources
+
+The structure in the resources is meant to eventually emerge.
