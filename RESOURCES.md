@@ -48,6 +48,6 @@
 
 **Note:** Both `venv` and `conda` are in use. There's `pyenv` that tries to rule them.
 
-# Note on resources
+# Note on learning resources
 
 The structure in the resources is meant to eventually emerge.
