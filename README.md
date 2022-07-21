@@ -47,10 +47,6 @@ The table generated with <https://www.tablesgenerator.com/markdown_tables>
 
 Good overview of the prior art is given in the presentation ["Making Libraries Consumable for Non-C++ Developers - Aaron R Robinson - CppCon 2021"]. Duration: 58:22.
 
-# Are there any teams or individual developers working on similar problems?
-
-Yes the list of related projects, teams, and individual developers is available [here](https://github.com/cross-lang-and-cross-platform/cross-lang-and-cross-platform/blob/main/RELATED_TEAMS_AND_PROJECTS.md).
-
 # How is the project going to be driven from the financial standpoint?
 
 The team buys the motto of [Rust Foundation],
@@ -65,6 +61,7 @@ Once the working group delivers the results that bring undeniable value, the tea
 * [Our tech stack](https://github.com/cross-lang-and-cross-platform/cross-lang-and-cross-platform/blob/main/OUR_TECH_STACK.md)
 * [Sought-after competencies](https://github.com/JohnScience/cross-lang-and-cross-platform/blob/main/SOUGHT_AFTER_COMPETENCIES.md)
 * [Learning resources](https://github.com/cross-lang-and-cross-platform/cross-lang-and-cross-platform/blob/main/RESOURCES.md)
+* [Related projects, teams, and individual developers]([here](https://github.com/cross-lang-and-cross-platform/cross-lang-and-cross-platform/blob/main/RELATED_TEAMS_AND_PROJECTS.md))
 * [Ongoing work](https://github.com/JohnScience/cross-lang-and-cross-platform/blob/main/ONGOING_WORK.md)
 
 # Communications
