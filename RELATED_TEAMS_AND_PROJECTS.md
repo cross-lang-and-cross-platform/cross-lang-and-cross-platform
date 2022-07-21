@@ -12,6 +12,8 @@
 
 # Carbon language
 
+> An experimental successor to C++
+
 \[ [GitHub repo](https://github.com/carbon-language/carbon-lang) \]
 
 ## Notes
