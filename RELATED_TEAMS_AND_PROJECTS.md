@@ -20,12 +20,10 @@
 
 * Interoperability with C++ is one of the main goals of Carbon language as its *potential* language-successor.
 
-# `cbindgen`
-
-> A project for generating C bindings from Rust code
-
-\[ [GitHub repo](https://github.com/eqrion/cbindgen) \]
-
 # On interaction with other projects, teams, and individual developers
 
 The process of interaction with other projects, teams, and developers is not yet established. Neither is the list of values for the process. However, there's an understanding that the process must be seamless and transparent.
+
+# On relation of this resource to learning resources
+
+So far, there's no clear distinction between the two. However, this resource is meant to be sort of an address book or a [telephone directory](https://en.wikipedia.org/wiki/Telephone_directory) for potential and actual collaborators, whereas learning resources must be a place to learn more about cross-language interoperability and cross-platform development.
