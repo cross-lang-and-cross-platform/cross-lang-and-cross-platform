@@ -61,7 +61,7 @@ Once the working group delivers the results that bring undeniable value, the tea
 * [Our tech stack](https://github.com/cross-lang-and-cross-platform/cross-lang-and-cross-platform/blob/main/OUR_TECH_STACK.md)
 * [Sought-after competencies](https://github.com/JohnScience/cross-lang-and-cross-platform/blob/main/SOUGHT_AFTER_COMPETENCIES.md)
 * [Learning resources](https://github.com/cross-lang-and-cross-platform/cross-lang-and-cross-platform/blob/main/RESOURCES.md)
-* [Related projects, teams, and individual developers]([here](https://github.com/cross-lang-and-cross-platform/cross-lang-and-cross-platform/blob/main/RELATED_TEAMS_AND_PROJECTS.md))
+* [Related projects, teams, and individual developers](https://github.com/cross-lang-and-cross-platform/cross-lang-and-cross-platform/blob/main/RELATED_TEAMS_AND_PROJECTS.md)
 * [Ongoing work](https://github.com/JohnScience/cross-lang-and-cross-platform/blob/main/ONGOING_WORK.md)
 
 # Communications
