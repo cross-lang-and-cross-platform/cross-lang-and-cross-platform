@@ -24,6 +24,6 @@
 
 The process of interaction with other projects, teams, and developers is not yet established. Neither is the list of values for the process. However, there's an understanding that the process must be seamless and transparent.
 
-# On relation of this resource to learning resources
+# On connection of "Related projects, teams, and individual developers" to "Learning resources"
 
-So far, there's no clear distinction between the two. However, this resource is meant to be sort of an address book or a [telephone directory](https://en.wikipedia.org/wiki/Telephone_directory) for potential and actual collaborators, whereas learning resources must be a place to learn more about cross-language interoperability and cross-platform development.
+Check the main [README](https://github.com/cross-lang-and-cross-platform/cross-lang-and-cross-platform/blob/main/README.md#on-connection-of-related-projects-teams-and-individual-developers-and-learning-resources).
