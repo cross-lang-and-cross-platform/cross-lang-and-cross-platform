@@ -55,6 +55,10 @@ The team buys the motto of [Rust Foundation],
 
 Once the working group delivers the results that bring undeniable value, the team will consider possible options of getting the financial support for the project. 
 
+# On connection of "Related projects, teams, and individual developers" and "Learning resources"
+
+There will be an inevitable overlap between the two parts of the repository because tools and libraries are developed by people, who create teams, and orgaize projects. However, "Related projects, teams, and individual developers" is meant to be sort of an address book or a telephone directory for potential and actual collaborators, whereas learning resources is supposed to be a place to learn more about cross-language interoperability and cross-platform development.
+
 # Repository navigation
 
 * [History of the project](https://github.com/JohnScience/cross-lang-and-cross-platform/blob/main/HISTORY.md)
