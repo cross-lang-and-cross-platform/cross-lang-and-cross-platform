@@ -49,7 +49,7 @@ Good overview of the prior art is given in the presentation ["Making Libraries C
 
 # Are there any teams or individual developers working on similar problems?
 
-Almost surely, yes. The are plans to create a list of teams and individual developers working on related problems and make the interaction with them as transparent and easy as possible.
+Yes the list of related projects, teams, and individual developers is available [here](https://github.com/cross-lang-and-cross-platform/cross-lang-and-cross-platform/blob/main/RELATED_TEAMS_AND_PROJECTS.md).
 
 # How is the project going to be driven from the financial standpoint?
 
