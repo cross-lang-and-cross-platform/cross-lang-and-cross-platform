@@ -14,7 +14,7 @@
 
 > An experimental successor to C++
 
-\[ [GitHub repo](https://github.com/carbon-language/carbon-lang) \]
+\[ [GitHub repo](https://github.com/carbon-language/carbon-lang) | [Discord server](https://discord.com/invite/ZjVdShJDAs) \]
 
 ## Notes
 
