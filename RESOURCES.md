@@ -51,3 +51,7 @@
 # Note on learning resources
 
 The structure in the resources is meant to eventually emerge.
+
+# On connection of "Related projects, teams, and individual developers" to "Learning resources"
+
+Check the main [README](https://github.com/cross-lang-and-cross-platform/cross-lang-and-cross-platform/blob/main/README.md#on-connection-of-related-projects-teams-and-individual-developers-and-learning-resources).
