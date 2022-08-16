@@ -15,6 +15,10 @@ On wait while the working group gains expertise in building parsers with [`pest`
 * [Comparing Traits and Typeclasses]
 * [Kwang's Haskell Blog, "Comparing Traits and Typeclasses"]
 
+## Implementing Learning Resources as an interactive Jupyter Notebook
+
+GitHub supports `.ipynb` files. This can be used to produce multidimensional view of the data and make it semantically richer than Markdown alone can express. It is true that Markdown does support matrices. However, the maintainance and scaling thereof is difficult. A matrix of lang x lang interop is needed.
+
 ## Preparing for the call
 
 The project needs lots of competencies and lots of developers to get the work done.
