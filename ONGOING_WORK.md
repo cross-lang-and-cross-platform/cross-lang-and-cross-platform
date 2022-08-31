@@ -19,6 +19,16 @@ On wait while the working group gains expertise in building parsers with [`pest`
 
 GitHub supports `.ipynb` files. This can be used to produce multidimensional view of the data and make it semantically richer than Markdown alone can express. It is true that Markdown does support matrices. However, the maintainance and scaling thereof is difficult. A matrix of lang x lang interop is needed.
 
+On hold while there is no an onboarding proccess for developers.
+
+## Writing Rust courses on Stepik
+
+There are courses on Rust programming language, yet they offer a slightly different perspective on Rust than the one that would be beneficial for the project. For example, the popular courses do not provide exposure to final assembly, don't discuss architectures, calling conventions and many other things which are very important for the success of the project.
+
+Even for experienced programmers [usually, non-C and non-C++ programmers] the learning materials were too hard without proper explanations in advance.
+
+At the moment, there's an ongoing work on Rust course with desired content in Russian. The rationale was that the author has lots of Russian-speaking friends-experts and there was no good Rust course in Russian. Once, the course is good enough, it will be translated to English.
+
 ## Preparing for the call
 
 The project needs lots of competencies and lots of developers to get the work done.
