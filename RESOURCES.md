@@ -5,6 +5,8 @@
 
 ## ABI
 
+* ["What is an ABI, and Why is Breaking it Bad? - Marshall Clow - CppCon 2020"](https://www.youtube.com/watch?v=7RoTDjLLXJQ). Duration: 1:05:52.
+
 * ["How Can Package Managers Handle ABI (In)compatibility in C++? - Todd Gamblin - CppCon 2021"](https://www.youtube.com/watch?v=gWe2K_oCp6A). Duration: 58:28.
 
 ## Object files
