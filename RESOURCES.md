@@ -30,9 +30,13 @@
 ### Intro to LLVM
 * ["2019 EuroLLVM Developers’ Meeting: V. Bridgers & F. Piovezan “LLVM IR Tutorial - Phis, GEPs ...”"](https://www.youtube.com/watch?v=m8G_S5LwlTo). Duration: 50:45.
 
-## Tooling for languages
+## Articles and tooling for languages
 
 ### Rust
+
+#### Articles (read how)
+
+* [The Rust FFI Omnibus is a collection of examples of using code written in Rust from other languages](http://jakegoulding.com/rust-ffi-omnibus/)
 
 #### Maturin
 
