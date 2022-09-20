@@ -23,6 +23,10 @@
 
 * ["Dynamically Loaded Libraries Outside the Standard - Zhihao Yuan - CppCon 2021"](https://www.youtube.com/watch?v=-dxCaM4GOqs). Duration: 54:53.
 
+## Debugging information
+
+* ["CppCon 2018: Simon Brand “How C++ Debuggers Work”"](https://www.youtube.com/watch?v=0DDrseUomfU). Duration: 1:00:59.
+
 ## LLVM
 
 ### LLVM vs GIMPLE
