@@ -38,6 +38,10 @@
 
 ## Articles and tooling for languages
 
+## True cross-lang
+
+* [GIAC 2021 (Global Internet Architecture Conference) of Alibaba FFI – Exploration of Cross-Language Programming](https://www.alibabacloud.com/blog/an-exploration-of-cross-language-programming_598811)
+
 ### Rust
 
 #### Articles (read how)
