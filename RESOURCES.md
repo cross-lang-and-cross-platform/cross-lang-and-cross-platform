@@ -38,7 +38,7 @@
 
 ## Articles and tooling for languages
 
-## True cross-lang
+## True cross-lang (N x M)
 
 * [GIAC 2021 (Global Internet Architecture Conference) of Alibaba FFI – Exploration of Cross-Language Programming](https://www.alibabacloud.com/blog/an-exploration-of-cross-language-programming_598811)
 
@@ -47,6 +47,8 @@
 #### Articles (read how)
 
 * [The Rust FFI Omnibus is a collection of examples of using code written in Rust from other languages](http://jakegoulding.com/rust-ffi-omnibus/)
+
+* [Integrating Rust With Android Development](https://blog.devgenius.io/integrating-rust-with-android-development-ef341c2f9cca)
 
 #### Maturin
 
