@@ -27,6 +27,10 @@
 
 * ["CppCon 2018: Simon Brand “How C++ Debuggers Work”"](https://www.youtube.com/watch?v=0DDrseUomfU). Duration: 1:00:59.
 
+## Transpilers
+
+* [Fable - F# transpiler into Rust, Dart, JavaScript, TypeScript, Python](https://github.com/fable-compiler/fable).
+
 ## LLVM
 
 ### LLVM vs GIMPLE
