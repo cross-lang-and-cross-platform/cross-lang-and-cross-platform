@@ -36,6 +36,8 @@ The table generated with <https://www.tablesgenerator.com/markdown_tables>
 
 **Billions** of dollars are spent worldwide to process data. Such companies as Khan Academy even found it reasonable to rewrite the back-end, which initially was developed in Python, using Golang. As they claimed, the decision was driven by rising bills from cloud service providers. Google invested in the development of Carbon programming language because it wanted safety but interoperability between C++ and Rust is complicated.
 
+Warning, with the cold fusion breakthrough, the energy crysis in Europe can be resolved.
+
 ## Notes
 
 * The to-be-developed tooling will not compete but coexist and possibly even provide foundation for cross-platform **UI libraries** (such as [Flutter] and [React Native]), i.e. the tooling is intended to be a part of the respective [software ecosystems].
