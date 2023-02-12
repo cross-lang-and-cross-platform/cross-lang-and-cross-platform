@@ -36,7 +36,7 @@ The table generated with <https://www.tablesgenerator.com/markdown_tables>
 
 **Billions** of dollars are spent worldwide to process data. Such companies as Khan Academy even found it reasonable to rewrite the back-end, which initially was developed in Python, using Golang. As they claimed, the decision was driven by rising bills from cloud service providers. Google invested in the development of Carbon programming language because it wanted safety but interoperability between C++ and Rust is complicated.
 
-Warning, with the cold fusion breakthrough, the energy crysis in Europe can be resolved.
+With the recent [cold fusion breakthrough], the energy crysis in Europe *might* eventually be resolved. However, it will take many years until the gained knowledge will be put practice.
 
 ## Notes
 
@@ -88,3 +88,4 @@ There will be an inevitable overlap between the two parts of the repository beca
 [Most loved, dreaded, and wanted]: https://insights.stackoverflow.com/survey/2021#technology-most-loved-dreaded-and-wanted
 [Mapped: Energy Consumption Per Capita Around the World]: https://elements.visualcapitalist.com/energy-consumption-per-capita/
 [^1]: https://en.wikipedia.org/wiki/LLVM
+[cold fusion breakthrough]: https://www.nytimes.com/2022/12/13/science/nuclear-fusion-energy-breakthrough.html
