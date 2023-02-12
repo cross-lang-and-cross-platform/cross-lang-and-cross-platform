@@ -87,5 +87,6 @@ There will be an inevitable overlap between the two parts of the repository beca
 ["Energy Efficiency across Programming Languages: How Do Energy, Time, and Memory Relate?"]: https://greenlab.di.uminho.pt/wp-content/uploads/2017/10/sleFinal.pdf
 [Most loved, dreaded, and wanted]: https://insights.stackoverflow.com/survey/2021#technology-most-loved-dreaded-and-wanted
 [Mapped: Energy Consumption Per Capita Around the World]: https://elements.visualcapitalist.com/energy-consumption-per-capita/
-[^1]: https://en.wikipedia.org/wiki/LLVM
 [cold fusion breakthrough]: https://www.nytimes.com/2022/12/13/science/nuclear-fusion-energy-breakthrough.html
+[^1]: https://en.wikipedia.org/wiki/LLVM
+
