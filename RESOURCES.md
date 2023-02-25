@@ -25,6 +25,7 @@
 
 ## Debugging information
 
+* [Linux Debuginfo Formats - DWARF, ELF, dwo, dwp - What are They All? - Greg Law - CppCon 2022](https://www.youtube.com/watch?v=l3h7F9za_pc). Duration: 1:02:33.
 * ["CppCon 2018: Simon Brand “How C++ Debuggers Work”"](https://www.youtube.com/watch?v=0DDrseUomfU). Duration: 1:00:59.
 
 ## Transpilers
