@@ -75,6 +75,12 @@
 
 **Note:** Both `venv` and `conda` are in use. There's `pyenv` that tries to rule them.
 
+## Package Managers
+
+* [Stay Together For The Kids - Andrew Kelley - Software You Can Love 2022](https://www.youtube.com/watch?v=stChOsejLEQ)
+
+> On Language Package Managers (LPMs) and System Package Managers (SPMs).
+
 # Note on learning resources
 
 The structure in the resources is meant to eventually emerge.
