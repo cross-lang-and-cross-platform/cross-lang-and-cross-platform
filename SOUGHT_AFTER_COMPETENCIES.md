@@ -12,6 +12,9 @@ Creating tooling that would allow easy generation of [bindings] from code in pro
 * [SWIG]
   - Tool usage - **extremely useful**
   - Source code - **potentially useful**
+* [Djinni]
+  - Tool usage - **potentially useful**
+  - Source code - **potentially useful**
 * [Hydra the transformation toolkit]
   - Tool usage - **potentially useful**
   - Source code - **potentially useful**
@@ -83,6 +86,7 @@ Even if you haven't found your expertise or field of interest in the tree, you s
 [Compiler Theory]: https://en.wikipedia.org/wiki/Compiler#Compiler_construction
 [Type Theory]: https://en.wikipedia.org/wiki/Type_theory
 [SWIG]: http://www.swig.org/
+[Djinni]: https://github.com/snapchat/djinni
 [Hydra the transformation toolkit]: https://github.com/CategoricalData/hydra
 [FFI]: https://en.wikipedia.org/wiki/Foreign_function_interface
 [Gradle]: https://en.wikipedia.org/wiki/Gradle
