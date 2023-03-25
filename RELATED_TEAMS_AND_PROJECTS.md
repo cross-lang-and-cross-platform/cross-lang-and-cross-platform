@@ -20,6 +20,14 @@
 
 * Interoperability with C++ is one of the main goals of Carbon language as its *potential* language-successor.
 
+# Meetups
+
+## International
+
+* [LLVM / Clang network](https://www.meetup.com/pro/llvm/)
+
+At the time of writing, the network consists of 13 groups in 10 countries.
+
 # On interaction with other projects, teams, and individual developers
 
 The process of interaction with other projects, teams, and developers is not yet established. Neither is the list of values for the process. However, there's an understanding that the process must be seamless and transparent.
