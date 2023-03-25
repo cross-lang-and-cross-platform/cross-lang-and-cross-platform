@@ -49,11 +49,13 @@
 
 ### Rust
 
-#### Articles (read how)
+#### Articles (read how to)
 
 * [The Rust FFI Omnibus is a collection of examples of using code written in Rust from other languages](http://jakegoulding.com/rust-ffi-omnibus/)
 
 * [Integrating Rust With Android Development](https://blog.devgenius.io/integrating-rust-with-android-development-ef341c2f9cca)
+
+* [LLVM and Rust, the Dynamics of (Low-Level Virtual Machine)](https://medium.com/@dwulf69/llvm-and-rust-the-dynamics-of-low-level-virtual-machine-a5fe2efb4c50)
 
 #### Maturin
 
