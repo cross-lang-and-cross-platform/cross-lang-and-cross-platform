@@ -69,6 +69,10 @@
 
 * [Expose a Rust Library to Other Languages](https://slint-ui.com/blog/expose-rust-library-to-other-languages.html)
 
+#### WAPM
+
+* ["Build Universal Libraries with Rust"](https://www.youtube.com/watch?v=uKlHwko36c4)
+
 # Distribution
 
 * ["Creating and maintaining a conda-forge package"](https://www.youtube.com/watch?v=8s5aj3sjuVE). Duration: 41:30.
