@@ -71,7 +71,7 @@
 
 #### WAPM
 
-* ["Build Universal Libraries with Rust"](https://www.youtube.com/watch?v=uKlHwko36c4)
+* ["Build Universal Libraries with Rust"](https://www.youtube.com/watch?v=uKlHwko36c4). Duration: 20:58.
 
 # Distribution
 
