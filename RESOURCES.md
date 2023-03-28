@@ -11,6 +11,10 @@
 
 * ["How Can Package Managers Handle ABI (In)compatibility in C++? - Todd Gamblin - CppCon 2021"](https://www.youtube.com/watch?v=gWe2K_oCp6A). Duration: 58:28.
 
+### Calling conventions
+
+* ["This Is How Little Birds Secretly Keep Your Code Safe"](https://www.youtube.com/watch?v=z6gdQt8mjn4). Duration: 8:01.
+
 ## Object files
 
 * ["CppCon 2017: Michael Spencer “My Little Object File: How Linkers Implement C++”"](https://www.youtube.com/watch?v=a5L66zguFe4). Duration: 47:50.
