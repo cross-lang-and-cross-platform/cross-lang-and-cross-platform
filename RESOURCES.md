@@ -36,6 +36,8 @@
 
 * [Fable - F# transpiler into Rust, Dart, JavaScript, TypeScript, Python](https://github.com/fable-compiler/fable).
 
+* <https://arxiv.org/abs/2303.10515>
+
 ## LLVM
 
 ### LLVM vs GIMPLE
