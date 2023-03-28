@@ -83,7 +83,7 @@
 
 ## Package Managers
 
-* [Stay Together For The Kids - Andrew Kelley - Software You Can Love 2022](https://www.youtube.com/watch?v=stChOsejLEQ)
+* [Stay Together For The Kids - Andrew Kelley - Software You Can Love 2022](https://www.youtube.com/watch?v=stChOsejLEQ). Duration: 26:20.
 
 > On Language Package Managers (LPMs) and System Package Managers (SPMs).
 
