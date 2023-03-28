@@ -20,6 +20,12 @@
 
 * Interoperability with C++ is one of the main goals of Carbon language as its *potential* language-successor.
 
+# uutils
+
+> Universal (as in cross-platform) utils.
+
+\[ [GitHub repo](https://github.com/uutils) | [crates.io team page](https://crates.io/teams/github:uutils:maintainers) \]
+
 # Meetups
 
 ## International
