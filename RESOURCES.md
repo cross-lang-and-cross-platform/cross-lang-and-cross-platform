@@ -25,6 +25,7 @@
 
 ### Dynamically loaded libraries
 
+* [Medium article "Dynamic Linking in Rust’s FFI: Understanding the Essentials"](https://dlcoder.medium.com/dynamic-linking-in-rusts-ffi-understanding-the-essentials-c9e683bebb99)
 * ["Dynamically Loaded Libraries Outside the Standard - Zhihao Yuan - CppCon 2021"](https://www.youtube.com/watch?v=-dxCaM4GOqs). Duration: 54:53.
 
 ## Debugging information
