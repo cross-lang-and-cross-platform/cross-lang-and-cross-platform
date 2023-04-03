@@ -35,9 +35,11 @@
 
 ## Transpilers
 
-* [Fable - F# transpiler into Rust, Dart, JavaScript, TypeScript, Python](https://github.com/fable-compiler/fable).
+* [Github repository of Fable](https://github.com/fable-compiler/fable).
 
-* <https://arxiv.org/abs/2303.10515>
+> F# transpiler into Rust, Dart, JavaScript, TypeScript, Python
+
+* [Arxiv paper "Ownership guided C to Rust translation"]<https://arxiv.org/abs/2303.10515>
 
 ## LLVM
 
