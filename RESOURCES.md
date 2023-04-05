@@ -60,7 +60,9 @@
 
 #### Articles (read how to)
 
-* [The Rust FFI Omnibus is a collection of examples of using code written in Rust from other languages](http://jakegoulding.com/rust-ffi-omnibus/)
+* [The Rust FFI Omnibus](http://jakegoulding.com/rust-ffi-omnibus/)
+
+> a collection of examples of using code written in Rust from other languages.
 
 * [Integrating Rust With Android Development](https://blog.devgenius.io/integrating-rust-with-android-development-ef341c2f9cca)
 
