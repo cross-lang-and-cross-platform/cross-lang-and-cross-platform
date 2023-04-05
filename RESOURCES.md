@@ -92,7 +92,7 @@
 
 ## Dependency management
 
-* [PyConBy 2019: Nikita Grishko, Evolution of dependency management](https://www.youtube.com/watch?v=YErAfIWC0wk)
+* [PyConBy 2019: Nikita Grishko, Evolution of dependency management](https://www.youtube.com/watch?v=YErAfIWC0wk). Duration: 35:53.
 
 > An overview of Python tooling for dependency management, together with description of its strengths and weaknesses. The presentation is in Russian but automatically translated subtitles are available.
 
