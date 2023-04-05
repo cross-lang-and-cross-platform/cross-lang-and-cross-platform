@@ -90,7 +90,13 @@
 
 **Note:** Both `venv` and `conda` are in use. There's `pyenv` that tries to rule them.
 
-## Package Managers
+## Dependency management
+
+* [PyConBy 2019: Nikita Grishko, Evolution of dependency management](https://www.youtube.com/watch?v=YErAfIWC0wk)
+
+> An overview of Python tooling for dependency management, together with description of its strengths and weaknesses. The presentation is in Russian but automatically translated subtitles are available.
+
+### Package Managers
 
 * [Stay Together For The Kids - Andrew Kelley - Software You Can Love 2022](https://www.youtube.com/watch?v=stChOsejLEQ). Duration: 26:20.
 
