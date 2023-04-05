@@ -41,14 +41,20 @@
 
 * [Arxiv paper "Ownership guided C to Rust translation"](https://arxiv.org/abs/2303.10515)
 
-## LLVM
+## Compiler backends
 
-### LLVM vs GIMPLE
+### LLVM
+
+#### LLVM vs GIMPLE
 
 * ["How is GCC IR different from LLVM IR?", Stack Overflow](https://stackoverflow.com/questions/40799696/how-is-gcc-ir-different-from-llvm-ir)
 
-### Intro to LLVM
+#### Intro to LLVM
 * ["2019 EuroLLVM Developers’ Meeting: V. Bridgers & F. Piovezan “LLVM IR Tutorial - Phis, GEPs ...”"](https://www.youtube.com/watch?v=m8G_S5LwlTo). Duration: 50:45.
+
+### Cranelift
+
+* [Cranelift compared to LLVM](https://github.com/bytecodealliance/wasmtime/blob/main/cranelift/docs/compare-llvm.md)
 
 ## Articles and tooling for languages
 
