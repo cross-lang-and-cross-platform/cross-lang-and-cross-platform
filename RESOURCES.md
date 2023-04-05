@@ -39,7 +39,7 @@
 
 > F# transpiler into Rust, Dart, JavaScript, TypeScript, Python
 
-* [Arxiv paper "Ownership guided C to Rust translation"]<https://arxiv.org/abs/2303.10515>
+* [Arxiv paper "Ownership guided C to Rust translation"](https://arxiv.org/abs/2303.10515)
 
 ## LLVM
 
