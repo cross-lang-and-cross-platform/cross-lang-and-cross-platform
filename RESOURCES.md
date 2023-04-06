@@ -74,6 +74,12 @@
 
 * [LLVM and Rust, the Dynamics of (Low-Level Virtual Machine)](https://medium.com/@dwulf69/llvm-and-rust-the-dynamics-of-low-level-virtual-machine-a5fe2efb4c50)
 
+#### Corrosion
+
+A tool for integration of Rust into C/C++ project.
+
+* [GitHub page](https://github.com/corrosion-rs/corrosion).
+
 #### Maturin
 
 * ["Calling Rust code from Python"](https://www.youtube.com/watch?v=DpUlfWP_gtg). Duration: 8:22.
