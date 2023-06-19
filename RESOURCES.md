@@ -64,13 +64,15 @@
 
 ### Rust
 
-#### Articles (read how to)
+#### Articles & videos (how-to)
 
 * [The Rust FFI Omnibus](http://jakegoulding.com/rust-ffi-omnibus/)
 
 > a collection of examples of using code written in Rust from other languages.
 
 * [Integrating Rust With Android Development](https://blog.devgenius.io/integrating-rust-with-android-development-ef341c2f9cca)
+
+* [SIMD instructions with Rust on Android by Guillaume Endignoux - Rust Zürisee June 2023](https://www.youtube.com/watch?v=x5tK5ET6Q1I)
 
 * [LLVM and Rust, the Dynamics of (Low-Level Virtual Machine)](https://medium.com/@dwulf69/llvm-and-rust-the-dynamics-of-low-level-virtual-machine-a5fe2efb4c50)
 
