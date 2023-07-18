@@ -26,6 +26,10 @@
 
 \[ [GitHub repo](https://github.com/uutils) | [crates.io team page](https://crates.io/teams/github:uutils:maintainers) \]
 
+# llvm-ir-analysis
+
+\[ [GitHub repo](https://github.com/cdisselkoen/llvm-ir-analysis) \]
+
 # Meetups
 
 ## International
