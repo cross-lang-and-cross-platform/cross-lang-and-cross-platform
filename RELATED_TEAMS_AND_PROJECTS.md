@@ -30,6 +30,10 @@
 
 \[ [GitHub repo](https://github.com/cdisselkoen/llvm-ir-analysis) \]
 
+# tree-sitter
+
+\[ [Official website](https://tree-sitter.github.io/tree-sitter/) | [GitHub repo](https://github.com/tree-sitter/tree-sitter) \]
+
 # Meetups
 
 ## International
