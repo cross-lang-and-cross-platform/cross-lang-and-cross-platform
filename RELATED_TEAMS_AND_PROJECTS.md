@@ -32,6 +32,8 @@
 
 # tree-sitter
 
+![_Tree-sitter - a new parsing system for programming tools_ by Max Brunsfeld 1-10 screenshot](https://github.com/cross-lang-and-cross-platform/cross-lang-and-cross-platform/assets/16991108/5bdc3ca1-4c7c-44c4-b268-d75d918422d6)
+
 \[ [Official website](https://tree-sitter.github.io/tree-sitter/) | [GitHub repo](https://github.com/tree-sitter/tree-sitter) \]
 
 # Meetups
