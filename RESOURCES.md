@@ -98,6 +98,10 @@ A tool for integration of Rust into C/C++ project.
 
 * ["Build Universal Libraries with Rust"](https://www.youtube.com/watch?v=uKlHwko36c4). Duration: 20:58.
 
+### TypeScript
+
+* [Hyperimport - Import c, rust, zig etc. files in TypeScript](https://dev.to/tr1ckydev/hyperimport-import-c-rust-zig-etc-files-in-typescript-1ia5)
+
 # Distribution
 
 * ["Creating and maintaining a conda-forge package"](https://www.youtube.com/watch?v=8s5aj3sjuVE). Duration: 41:30.
