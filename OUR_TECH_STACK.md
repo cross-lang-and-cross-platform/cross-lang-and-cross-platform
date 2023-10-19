@@ -6,6 +6,10 @@
 
 **Language-specific parts can be (to a reasonable extent) written in the target languages. However, they should not be hard dependencies.**
 
+<img alt="Docker logo" src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Docker_logo.svg/180px-Docker_logo.svg.png" width="432" height="144">
+
+* Docker - the tool to make builds repeatable.
+
 # Possible additions to the tech stack
 
 If you want to add any dependency to the tech stack, you must ensure that there will be an Accountable individual (as in [RACI matrix](https://en.wikipedia.org/wiki/Responsibility_assignment_matrix)). As long as there is no an established process, reach out to the working group [on Discord](https://discord.com/invite/8xUXjshS4m).
