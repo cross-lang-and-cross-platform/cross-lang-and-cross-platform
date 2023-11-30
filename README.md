@@ -1,6 +1,8 @@
 <!-- The README is intentionally written in the design-doc style -->
 
-# What are we trying to build?
+# What ~~are~~ were we trying to build?
+
+**Note: all the text below was written before the boom of LLM like GPT-4. The project is stopped due to uncertainty. LLMs like GPT-4 show promise for automation of rewriting the code at the speed that hasn't been seen before. Consequently, the value of the project dropped unexpectedly.**
 
 We're trying to create tooling that would allow easy generation of [bindings] from code in programming languages whose compilers allow emitting [LLVM]: (1) Rust, (2) ActionScript, (3) Ada, (4) C#, (5) Common Lisp, (6) PicoLisp, (7) Crystal, (8) CUDA, (9) D, (10) Delphi, (11) Dylan, (12) Forth, (13) Fortran, (14) Free Basic, (15) Free Pascal, (16) Graphical G, (17) Halide, (18) Haskell, (19) Java bytecode, (20) Julia, (21) Kotlin, (22) Lua, (23) Objective-C, (24) OpenCL, (25) PostreSQL and PLpgSQL, (26) Ruby, (27) Scala, (28) Swift, (29) XC, (30) Xojo, and (31) Zig, (32) Python.[^1]
 
